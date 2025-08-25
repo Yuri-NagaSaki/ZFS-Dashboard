@@ -19,6 +19,7 @@
   "fiscalYearStartMonth": 0,
   "graphTooltip": 0,
   "id": null,
+  "liveNow": false,
   "links": [],
   "panels": [
     {
@@ -1297,7 +1298,7 @@
     }
   ],
   "refresh": "30s",
-  "schemaVersion": 38,
+  "schemaVersion": 39,
   "tags": [
     "zfs",
     "storage",
@@ -1360,6 +1361,6 @@
   "timezone": "",
   "title": "🏊‍♂️ ZFS Storage Dashboard",
   "uid": "zfs-clean-dashboard",
-  "version": 36,
+  "version": 1,
   "weekStart": ""
 }
