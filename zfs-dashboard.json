@@ -1360,6 +1360,6 @@
   "timezone": "",
   "title": "🏊‍♂️ ZFS Storage Dashboard",
   "uid": "zfs-clean-dashboard",
-  "version": 1,
+  "version": 36,
   "weekStart": ""
 }
